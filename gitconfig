@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jsv2858@gmail.com
+	name = Joel Suro
